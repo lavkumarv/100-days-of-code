@@ -8,3 +8,12 @@
 
 **Link(s) to work**
 1. [feature-blog-jekyll](https://github.com/lavkumarv/feature-blog-jekyll)
+
+### Day 2: January 7, Saturday
+
+**Today's Progress**: Almost completed the single blog post page in bootstrap for the theme.
+
+**Thoughts** The blog post page is almost ready, some changes in related blogs needed.
+
+**Link(s) to work**
+1. [feature-blog-jekyll](https://github.com/lavkumarv/feature-blog-jekyll)

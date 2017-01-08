@@ -17,3 +17,12 @@
 
 **Link(s) to work**
 1. [feature-blog-jekyll](https://github.com/lavkumarv/feature-blog-jekyll)
+
+### Day 3: January 8, Sunday
+
+**Today's Progress**: Added the side bar with recent post, tags, catagory supports.
+
+**Thoughts** The blog page is ready now.
+
+**Link(s) to work**
+1. [feature-blog-jekyll](https://github.com/lavkumarv/feature-blog-jekyll)

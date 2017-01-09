@@ -26,3 +26,12 @@
 
 **Link(s) to work**
 1. [feature-blog-jekyll](https://github.com/lavkumarv/feature-blog-jekyll)
+
+### Day 4: January 9, Monday
+
+**Today's Progress**: completed the whole html template with responsiveness.
+
+**Thoughts** Whole html template is reday, now need to convert into jekyll.
+
+**Link(s) to work**
+1. [feature-blog-jekyll](https://github.com/lavkumarv/feature-blog-jekyll)

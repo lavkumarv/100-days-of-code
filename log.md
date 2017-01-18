@@ -35,3 +35,12 @@
 
 **Link(s) to work**
 1. [feature-blog-jekyll](https://github.com/lavkumarv/feature-blog-jekyll)
+
+### Day 5: January 18, Wednesday
+
+**Today's Progress**: After missing few days, again coming on track. Converted the whole template to Jekyll next task is to integrate it with different plugins.
+
+**Thoughts** Made the all possible partial layouts and converted to Jekyll.
+
+**Link(s) to work**
+1. [feature-blog-jekyll](https://github.com/lavkumarv/feature-blog-jekyll)

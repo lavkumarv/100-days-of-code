@@ -44,3 +44,12 @@
 
 **Link(s) to work**
 1. [feature-blog-jekyll](https://github.com/lavkumarv/feature-blog-jekyll)
+
+### Day 6: January 19, Thursday
+
+**Today's Progress**: Added the pagination, image, videos, catagory, tags support in the template.
+
+**Thoughts** Now feature blog is coming in shape.
+
+**Link(s) to work**
+1. [feature-blog-jekyll](https://github.com/lavkumarv/feature-blog-jekyll)

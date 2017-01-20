@@ -53,3 +53,12 @@
 
 **Link(s) to work**
 1. [feature-blog-jekyll](https://github.com/lavkumarv/feature-blog-jekyll)
+
+### Day 7: January 20, Friday
+
+**Today's Progress**: Added the separate page for each tag & category. Support for social sharing and rich meta tags.
+
+**Thoughts** Next task is disqus, mailchip.
+
+**Link(s) to work**
+1. [feature-blog-jekyll](https://github.com/lavkumarv/feature-blog-jekyll)
